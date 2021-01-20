@@ -1,0 +1,7 @@
+# pack-refs with: peeled fully-peeled sorted 
+d44c5383ebb4e24af63e2d80f7c1746a50167388 refs/remotes/origin/courseStart
+10764dd22288cf5359cf2e040a6ff8f694b29712 refs/remotes/origin/master
+da648b3d3966488219f6c57f012062624b339661 refs/remotes/origin/updateAfterRecording
+2ca84ff94578825787eca47708cce7dc93a22d3d refs/remotes/origin/updatePom
+7226452c2a103c79cf2e04d5d518ef4f02e377cd refs/tags/FINAL
+d44c5383ebb4e24af63e2d80f7c1746a50167388 refs/tags/START
